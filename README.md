@@ -20,7 +20,7 @@ Remote Mute Switch: A switch on the dashboard can remotely silence the buzzer.
 
 ---
 1. Hardware Required
- _________________________   _________
+
 |         Component        | Quantity |
 | :----------------------- | :------- |
 | ESP32 Development Board  |    1     |
@@ -36,7 +36,7 @@ Remote Mute Switch: A switch on the dashboard can remotely silence the buzzer.
 | Breadboard               |    1     |
 | NPN transistor           |    1     |
 | Jumper Wires             |As needed |
-|_________________________ | ________ |
+|                          |          |
 ---
 
 2. Wiring Diagram
