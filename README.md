@@ -54,6 +54,18 @@ You can also find images of the physical connection in the following file path:\
 | Passive Buzzer     |         -            |       VCC        |   collector of NPN  |
 | NPN Transistor     |   GPIO26 --> BASE    |        -         |   EMMITER --> GND   |
 
+ *Note on LDR: The LDR is in a voltage divider circuit.
+ Connect 3.3V to one leg of the LDR.
+ Connect the other leg of the LDR to both GPIO 32 (the signal pin) AND one leg of a 10kΩ resistor.
+ Connect the other leg of the 10kΩ resistor to GND.
+ *Note on the transistor
+ GPIO 26 → 1kΩ Resistor → Base of NPN Transistor
+ 3.3V → Buzzer Leg 1
+ Buzzer Leg 2 → Collector of NPN Transistor
+ Emitter of NPN Transistor → GND
+
+
+
 
 3. Software & Cloud Setup
 
