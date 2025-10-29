@@ -1,0 +1,27 @@
+ *  Executing task: C:\Users\USER\.platformio\penv\Scripts\platformio.exe device monitor 
+
+--- Terminal on COM3 | 9600 8-N-1
+--- Available filters and text transformations: colorize, debug, default, direct, esp32_exception_decoder, hexlify, log2file, nocontrol, printable, send_on_enter, time
+--- More details at https://bit.ly/pio-monitor-filters
+--- Quit: Ctrl+C | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H
+ `␐     ~L 1 ))  N) ! !  ***** Arduino IoT Cloud - configuration info *****
+Device ID: 388373e4-6cba-406d-a4eb-2641a85c0127
+MQTT Broker: iot.arduino.cc:8884
+WiFi.status(): 255
+Humidity:   68.00   Temperature:    26.20
+Sound Level:    115   Light Level:    2405
+Humidity:   68.00   Temperature:    26.20
+Sound Level:    70   Light Level:    2438
+Connection to "JeremyWhyFi?" failed
+Retrying in  "4000" milliseconds
+Humidity:   68.00   Temperature:    26.20
+Sound Level:    161   Light Level:    2423
+Humidity:   67.00   Temperature:    26.20
+Sound Level:    221   Light Level:    2442
+Connected to "JeremyWhyFi?"
+Humidity:   67.00   Temperature:    26.20
+Sound Level:    97   Light Level:    2704
+Humidity:   67.00   Temperature:    26.20
+Sound Level:    133   Light Level:    2531
+Connected to Arduino IoT Cloud
+Thing ID: 13039fff-ce66-4950-be1b-fdfc505f9f15
