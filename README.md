@@ -43,6 +43,16 @@ Remote Mute Switch: A switch on the dashboard can remotely silence the buzzer.
 
 This project is built on a breadboard. Follow the connection table the file path:\CONNECTION\Wiring.
 You can also find images of the physical connection in the following file path:\MEDIA\FEEDBACK\
+|  COMPONENT         | SIGNAL PIN(to ESP32) |  POWER PIN(3.3V) |  GROUND PIN(TO GND) |
+| :----------------- | :------------------- | :--------------- | :------------------ |
+| DHT11 Sensor       |       GPIO14         |       VCC        |         GND         |
+| Sound Sensor       |       GPIO34(A0)     |       VCC        |         GND         |
+| LDR(Photoresistor) |       GPIO32         |       VCC*       |         GND*        |
+| Red LED            |       GPIO4          |        -         |   via 220 resistor  |
+| Yellow LED         |       GPIO18         |        -         |   via 220 resistor  | 
+| Blue LED           |       GPIO5          |        -         |   via 220 resistor  |
+| Passive Buzzer     |         -            |       VCC        |   collector of NPN  |
+| NPN Transistor     |   GPIO26 --> BASE    |        -         |   EMMITER --> GND   |
 
 
 3. Software & Cloud Setup
