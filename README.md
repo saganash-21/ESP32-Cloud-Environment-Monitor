@@ -130,10 +130,14 @@ ESP32-Cloud-Environment-Monitor/
 ├── MEDIA/
 │   ├── DASHBOARD/
 │   │   └── Dash1.png
+│   │   └── Dash2.png
 │   └── FEEDBACK/
+│   │   └── blue.jpg
+│   │   └── redBuzzer.mp4
+│   │   └── yellow.mp4
 │
 └── CONNECTION/
-    └── Wiring.png
+    └── Wiring.pdf
 ```
 
 
