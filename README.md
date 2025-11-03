@@ -5,7 +5,7 @@ This project uses an ESP32 to monitor a room's environment in real-time. It trac
 📈 Live Dashboard
 
 The dashboard provides a live view of all sensors, as well as historical data in charts. It also features a "Mute" switch to remotely silence the on-device buzzer.
-The live dashboard images can be found in the MEDIA/DASHBOARD/ folder.
+The live dashboard images can be found in the MEDIA/DASHBOARD/Dash1.png folder.
 
 ✨ Features
 
