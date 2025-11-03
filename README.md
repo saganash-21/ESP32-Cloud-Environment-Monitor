@@ -119,6 +119,7 @@ based on defined thresholds while filtering invalid DHT readings.
 
 ### 📂 Repository Structure
 
+```
 ESP32-Cloud-Environment-Monitor/
 │
 ├── CODE/
@@ -133,6 +134,8 @@ ESP32-Cloud-Environment-Monitor/
 │
 └── CONNECTION/
     └── Wiring.png
+```
+
 
 ---
 
