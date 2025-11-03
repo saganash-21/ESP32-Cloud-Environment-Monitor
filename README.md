@@ -14,7 +14,7 @@ It also features a **"Mute" switch** to remotely silence the on-device buzzer.
 📸 **Dashboard Preview:**  
 ![Dashboard Image](https://github.com/saganash-21/ESP32-Cloud-Environment-Monitor/blob/main/MEDIA/DASHBOARD/Dash1.png)
 
----
+
 ![Dashboard Image](https://github.com/saganash-21/ESP32-Cloud-Environment-Monitor/blob/main/MEDIA/DASHBOARD/Dash2.png)
 
 ---
