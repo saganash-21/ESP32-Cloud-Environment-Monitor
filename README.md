@@ -58,7 +58,7 @@ This project is built on a breadboard.
 Follow the connection table below or see the images in:  
 Connection_table -> [`CONNECTION`](CONNECTION/Wiring.pdf)
 Breadboard_conn -> [`BREADBOARD`](FEEDBACK/blue.jpg)
----
+
 Below is an image of the breadboard connection:
 
 ![BREADBOARD IMAGE](https://github.com/saganash-21/ESP32-Cloud-Environment-Monitor/blob/main/MEDIA/FEEDBACK/bread_conn.jpg)
