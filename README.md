@@ -122,18 +122,17 @@ based on defined thresholds while filtering invalid DHT readings.
 ESP32-Cloud-Environment-Monitor/
 │
 ├── CODE/
-│ └── src/
-│ ├── main.cpp
-│ └── thingProperties.h
+│   └── src/
+│       ├── main.cpp
+│       └── thingProperties.h
 │
 ├── MEDIA/
-│ ├── DASHBOARD/
-│ │ └── Dash1.png
-│ └── FEEDBACK/
+│   ├── DASHBOARD/
+│   │   └── Dash1.png
+│   └── FEEDBACK/
 │
 └── CONNECTION/
-└── Wiring.png
-
+    └── Wiring.png
 
 ---
 
