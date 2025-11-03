@@ -56,7 +56,7 @@ It also features a **"Mute" switch** to remotely silence the on-device buzzer.
 
 This project is built on a breadboard.  
 Follow the connection table below or see the images in:  
-[`/MEDIA/FEEDBACK/`](https://github.com/saganash-21/ESP32-Cloud-Environment-Monitor/tree/main/MEDIA/FEEDBACK)
+[`CONNECTION`](CONNECTION/Wiring.pdf)
 
 | Component         | Signal Pin (to ESP32) | Power (3.3V) | Ground (GND) |
 | :---------------- | :-------------------- | :------------ | :----------- |
